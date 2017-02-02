@@ -1,0 +1,82 @@
+header {
+	background : url('http://24.media.tumblr.com/c91ad911e05f7445614c0bbf8ddca0e3/tumblr_mhit58OPNh1rl3rvfo1_500.jpg');
+	color: white;
+	height:200px;
+
+	
+
+}
+nav {
+	background-color: rgb(175,175,175);	
+	height:40px;
+	
+	
+}
+header form:nth-child(3){
+	text-align:center;
+}
+header h1{
+	text-align:center;		
+}
+header form:first-child{
+	
+	margin:auto;
+}
+
+nav li {
+	display: inline-block;
+	margin: auto;
+	
+	
+}
+
+nav a{
+	text-decoration:none;
+	color:white;
+}
+ a:hover{
+	color:black;
+ }
+
+nav ul {
+	padding:0;
+	display: flex;
+	margin: auto;
+	height:100%;
+}
+footer{
+
+	background: pink;
+	color: white;
+		
+}
+footer ul {
+	margin:auto;
+}
+a:visited{
+color:purple;
+}
+.barre{
+	width:350px;
+}
+h2{
+	color:pink;
+	text-align:center;
+	text-decoration:none;
+}
+section li{
+	height:256;
+	width:256;
+	display:inline-block;
+}
+
+section li:nth-child(2){
+background:url('https://img.scoop.it/cb7KFmNqfuq3jizH4E9EfTl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9');
+
+}
+section li:nth-child(1){
+	background:url('https://scontent.xx.fbcdn.net/v/t1.0-1/c26.0.149.149/1958150_10202597212625070_804095459_n.jpg?oh=fcb5d2861ffded5f7f56eace1dc1f394&oe=590EADBB');
+	text-decoration:none
+	}
+
+
